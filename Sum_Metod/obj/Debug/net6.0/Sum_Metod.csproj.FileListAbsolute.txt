@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\bin\Debug\net6.0\Sum_Metod.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\bin\Debug\net6.0\Sum_Metod.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\bin\Debug\net6.0\Sum_Metod.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\bin\Debug\net6.0\Sum_Metod.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\bin\Debug\net6.0\Sum_Metod.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\obj\Debug\net6.0\Sum_Metod.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\obj\Debug\net6.0\Sum_Metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\obj\Debug\net6.0\Sum_Metod.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\obj\Debug\net6.0\Sum_Metod.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\obj\Debug\net6.0\Sum_Metod.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\obj\Debug\net6.0\Sum_Metod.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\obj\Debug\net6.0\refint\Sum_Metod.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\obj\Debug\net6.0\Sum_Metod.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\obj\Debug\net6.0\Sum_Metod.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\Sum_Metod\obj\Debug\net6.0\ref\Sum_Metod.dll
