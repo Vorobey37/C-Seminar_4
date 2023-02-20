@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\obj\Debug\net6.0\How_Many_Numbers.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\obj\Debug\net6.0\How_Many_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\obj\Debug\net6.0\How_Many_Numbers.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\obj\Debug\net6.0\How_Many_Numbers.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\obj\Debug\net6.0\How_Many_Numbers.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\bin\Debug\net6.0\How_Many_Numbers.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\bin\Debug\net6.0\How_Many_Numbers.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\bin\Debug\net6.0\How_Many_Numbers.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\bin\Debug\net6.0\How_Many_Numbers.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\bin\Debug\net6.0\How_Many_Numbers.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\obj\Debug\net6.0\How_Many_Numbers.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\obj\Debug\net6.0\refint\How_Many_Numbers.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\obj\Debug\net6.0\How_Many_Numbers.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\obj\Debug\net6.0\How_Many_Numbers.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_4\How_Many_Numbers\obj\Debug\net6.0\ref\How_Many_Numbers.dll
